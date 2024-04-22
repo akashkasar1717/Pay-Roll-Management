@@ -47,15 +47,15 @@
 </head>
 
 <body>
-	<div class="row" style="padding-top: 80px">
-		<div class="col-md-4 col-md-offset-4 ">
-			<img src="resources/img/Logo.png" />
+	<div class="row" style="padding-top: 20px">
+		<div style="padding-left: 20%;">
+			<img src="resources/img/Pay-Roll.jpg" width="800" height="500" />
 		</div>
 	</div>
 
 	<div class="col-md-6 col-md-offset-3 " style="text-align: center;">
-		<h1 style="font-size: 70px">
-			<a href="Welcome"> Welcome To PayRoll Management</a>
+		<h1 style="font-size: 40px">
+			<a href="Welcome"> Welcome To Pay-Roll Management</a>
 		</h1>
 	</div>
 </body>
